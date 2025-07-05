@@ -30,3 +30,4 @@ Cada uno cuenta con una imagen representativa, una breve descripción y la fecha
 
 > ⚠️ Nota: Algunas páginas mencionadas como `./paginas/articulo1.html` aún no están creadas, por lo que los enlaces no funcionarán hasta que se implementen.
 
+- para probar el sitio. - https://wonderful-gumdrop-ad7a69.netlify.app/
